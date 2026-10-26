@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "product": "cubifab-studio",
-  "version": "1.2.1",
-  "tag": "v1.2.1",
-  "releaseUrl": "https://github.com/CubiFab/CubiFabStudio/releases/tag/v1.2.1",
+  "version": "1.2.2",
+  "tag": "v1.2.2",
+  "releaseUrl": "https://github.com/CubiFab/CubiFabStudio/releases/tag/v1.2.2",
   "platforms": {
     "win32-x64": {
       "installerType": "nsis",
       "file": "CubiFab-Studio-win-x64-Setup.exe",
-      "url": "https://github.com/CubiFab/CubiFabStudio/releases/download/v1.2.1/CubiFab-Studio-win-x64-Setup.exe",
-      "sizeBytes": 129794686,
-      "sha256": "69e2d0a3c52fceab272d893dd3022471fc3c77ac55635540df14cc7cf3426246",
-      "sha512": "te+aHmo9GoVITRzIh6LA177JHa9jcoxV5ynDFMdWwImOWEXmlnsm9hpCNYJ16XrAqjf3d/rOuQCb7hX8FQnb7A=="
+      "url": "https://github.com/CubiFab/CubiFabStudio/releases/download/v1.2.2/CubiFab-Studio-win-x64-Setup.exe",
+      "sizeBytes": 129224436,
+      "sha256": "e5708e6990d5e0c1e968b7768e83b7a8be84c44caa122c7fc04fd72f122ec517",
+      "sha512": "zO2fUQEPYTwda7bddWqkNwxhrp9Pg6/3gF37AJ9VOcs+us98J8sPJnVOckC33i3FPUN8DR/4UXxY9X5hG65xkA=="
     }
   }
 }
